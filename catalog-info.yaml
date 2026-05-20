@@ -23,6 +23,9 @@ metadata:
     flowsource/jenkins-pipelines: Flowsource-demo-pipeline,Test - pipeline
     flowsource/jenkins-pipelines-trigger: Flowsource-demo-pipeline,Test - pipeline
     flowsource/servicenow-configuration-item: ANNIE-IBM
+    flowsource/github-repo-owner: sowmyadadi
+    flowsource/github-repo-name: sowmyareponew2026
+    flowsource/github-host: github.com
     # blackduck/project: automation-center-messageinterface/ver.1
     # flowsource/fis-aws-region: us-east-2
     # flowsource/aws-resiliencehub-appname: demotest
