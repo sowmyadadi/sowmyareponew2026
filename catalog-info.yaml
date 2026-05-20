@@ -17,6 +17,9 @@ metadata:
     flowsource/azure-devops-project-key: SPE - Flowsource-Implementation
     backstage.io/techdocs-ref: dir:.
     # cognizant/checkmarx-project-id: CAC_automationenginewindows_v4.3.1-latest
+    flowsource/github-repo-owner: sowmyadadi
+    flowsource/github-repo-name: sowmyareponew2026
+    flowsource/github-host: github.com
     flowsource/sonarqube-project-key: My-SpringBoot-App
     # flowsource/sonarqube-project-key: SPE_-_Flowsource-Implementation_jaswant_internal_repo_5561c4b5-96c2-4ae4-b6c3-cba9ed8b5278
     flowsource/azure-pipelines: Infra_Automation, jaswant_internal_repo
